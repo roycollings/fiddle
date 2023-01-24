@@ -1,0 +1,40 @@
+/* Placeholder styling copied from elsewhere for now */
+.SearchBar{
+  background-color:#4C5A65;
+  text-decoration: none;
+}
+
+.searchTerm{
+  position: relative;
+  height: 2rem;
+  width: 80%;
+  border: none;
+  border-radius: 0.5rem;
+  margin: 2rem 0rem 2rem 2rem;
+  padding: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.searchBtn {
+  height: 3rem;
+  display: inline-block;
+  position: relative;
+  margin: 2rem 2rem 2rem 0.5rem;
+  text-align: center;
+  padding: 0.5rem;
+  border: 1rem;
+  border-radius: 0.5rem;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+/* Trying to avoid -moz and -webkit etc... versions here.
+Using https://caniuse.com/?search=box-shadow to check compatibility of these, it looks like they're
+not perfect, but for MVP we're very unlikely to hit an issue. */
+.searchBtn:hover {
+  box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 0px 0px 2px rgba(0,0,0, .5);
+}
+
+.searchBtn:active {
+  box-shadow: inset 0px 0px 3px rgba(0,0,0, .8);
+}

@@ -1,0 +1,9 @@
+assertpy==1.1
+autopep8==1.6.0
+fastapi==0.78.0
+pylint==2.14.0
+pytest==7.1.2
+pytest-watch==4.2.0
+python-dotenv==0.20.0
+requests==2.28.0
+uvicorn==0.17.6

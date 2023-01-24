@@ -1,0 +1,106 @@
+{
+  "data": {
+    "version": "1",
+    "term": "smoking",
+    "result": [
+      {
+        "title": "Cigarette smoking and coronary heart disease: new evidence and old reactions",
+        "publish_time": "1980-03-31",
+        "journal": "American Heart Journal",
+        "authors": "Friedman, Gary D",
+        "url": "https://doi.org/10.1016/0002-8703(80)90356-7"
+      },
+      {
+        "title": "The effect of smoking on influenza, influenza vaccination efficacy and on the antibody response to influenza vaccination",
+        "publish_time": "1999-02-28",
+        "journal": "Vaccine",
+        "authors": "Cruijff, Mark; Thijs, Carel; Govaert, Theofiel; Aretz, Karin; Dinant, Geert Jan; Knottnerus, André",
+        "url": "https://doi.org/10.1016/s0264-410x(98)00213-8"
+      },
+      {
+        "title": "COVID-19 and smoking: A systematic review of the evidence",
+        "publish_time": "2020-03-20",
+        "journal": "Tob Induc Dis",
+        "authors": "Vardavas, Constantine I.; Nikitara, Katerina",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7083240/"
+      },
+      {
+        "title": "Drinking, Smoking, and Morality: Do ‘Drinkers and Smokers’ Constitute a Stigmatised Stereotype or a Real TB Risk Factor in the Time of HIV/AIDS?",
+        "publish_time": "2009-11-07",
+        "journal": "Soc Indic Res",
+        "authors": "Møller, Valerie; Erstad, Ida; Zani, Dalinyebo",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088702/"
+      },
+      {
+        "title": "Influenza A among community-dwelling elderly persons in Leicestershire during winter 1993-4; cigarette smoking as a risk factor and the efficacy of influenza vaccination.",
+        "publish_time": "1999-08-03",
+        "journal": "",
+        "authors": "Nicholson, K. G.; Kent, J.; Hammersley, V.",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810733/"
+      },
+      {
+        "title": "Smoking, alcohol consumption, and susceptibility to the common cold.",
+        "publish_time": "1993-09-03",
+        "journal": "",
+        "authors": "Cohen, S; Tyrrell, D A; Russell, M A; Jarvis, M J; Smith, A P",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1694990/"
+      },
+      {
+        "title": "Reducing health disparity in Taiwan: quantifying the role of smoking",
+        "publish_time": "2005-06-01",
+        "journal": "Tobacco Control",
+        "authors": "Cheng, T; Wen, C; Tsai, S; Chung, W; Hsu, C",
+        "url": "https://tobaccocontrol.bmj.com/content/tobaccocontrol/14/suppl_1/i23.full.pdf"
+      },
+      {
+        "title": "Smoking attributable mortality for Taiwan and its projection to 2020 under different smoking scenarios",
+        "publish_time": "2005-06-01",
+        "journal": "Tobacco Control",
+        "authors": "Wen, C; Tsai, S; Chen, C; Cheng, T; Tsai, M; Levy, D",
+        "url": "https://tobaccocontrol.bmj.com/content/14/suppl_1/i76.full.pdf"
+      },
+      {
+        "title": "Legislative smoking bans for reducing harms from secondhand smoke exposure, smoking prevalence and tobacco consumption",
+        "publish_time": "2016-02-04",
+        "journal": "Cochrane Database of Systematic Reviews",
+        "authors": "Frazer, Kate; Callinan, Joanne E; McHugh, Jack; van Baarsel, Susan; Clarke, Anna; Doherty, Kirsten; Kelleher, Cecily",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6486282/"
+      },
+      {
+        "title": "Prevalence, Severity and Mortality associated with COPD and Smoking in patients with COVID-19: A Rapid Systematic Review and Meta-Analysis",
+        "publish_time": "2020-03-27",
+        "journal": "",
+        "authors": "Jaber S Alqahtani; Tope Oyelade; Abdulelah M Aldhahir; Saeed M Alghamdi; Mater Almehmadi; Abdullah S Alqahtani; Shumonta Quaderi; Swapna Mandal; John Hurst",
+        "url": "https://doi.org/10.1101/2020.03.25.20043745"
+      },
+      {
+        "title": "Waterpipe smoking as a public health risk: Potential risk for transmission of MERS-CoV",
+        "publish_time": "2018-05-03",
+        "journal": "Saudi J Biol Sci",
+        "authors": "Alagaili, Abdulaziz N.; Briese, Thomas; Amor, Nabil M.S.; Mohammed, Osama B.; Lipkin, W. Ian",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6600605/"
+      },
+      {
+        "title": "Active smoking is not associated with severity of coronavirus disease 2019 (COVID-19)",
+        "publish_time": "2020-03-16",
+        "journal": "European Journal of Internal Medicine",
+        "authors": "Lippi, Giuseppe; Henry, Brandon Michael",
+        "url": "https://doi.org/10.1016/j.ejim.2020.03.014"
+      },
+      {
+        "title": "Sex difference and smoking predisposition in patients with COVID-19",
+        "publish_time": "2020-03-11",
+        "journal": "The Lancet Respiratory Medicine",
+        "authors": "Cai, Hua",
+        "url": "https://doi.org/10.1016/s2213-2600(20)30117-x"
+      },
+      {
+        "title": "Effects of smoking and solid-fuel use on COPD, lung cancer, and tuberculosis in China: a time-based, multiple risk factor, modelling study",
+        "publish_time": "2008-10-31",
+        "journal": "The Lancet",
+        "authors": "Lin, Hsien-Ho; Murray, Megan; Cohen, Ted; Colijn, Caroline; Ezzati, Majid",
+        "url": "https://doi.org/10.1016/s0140-6736(08)61345-8"
+      }
+    ]
+  }
+}
